@@ -1,4 +1,6 @@
-# Monke Mod Manager
+# Monke Mod Installer
+# By MonkePro2000 & RIP.CIA
+# OG Monke Mod Manager code by DeadlyKitten
 
 An advanced Mod Installer for Gorilla Tag.
 
