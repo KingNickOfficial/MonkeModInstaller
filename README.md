@@ -1,10 +1,10 @@
 # Monke Mod Installer
-# By MonkePro2000 & RIP.CIA
-# OG Monke Mod Manager code by DeadlyKitten
+By MonkePro2000 & RIP.CIA.
+OG Monke Mod Manager code by DeadlyKitten. Forked from Buzz.
 
-An advanced Mod Installer for Gorilla Tag.
+# An advanced Mod Installer for Gorilla Tag.
 
-Features:
+# Features:
 
 Log, Legal, Illegal, Legacy, and Settings Tabs.
 
